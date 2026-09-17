@@ -29,7 +29,7 @@ The analysis considers dimensions such as:
 - Number of specialties involved
 - Number of diagnoses
 
-  ## Methodology
+## Methodology
 
 The project follows the following analytical workflow:
 
